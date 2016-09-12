@@ -1,21 +1,26 @@
 # beginner-python
 
-## Grocery List
+# Variables
 
-** 1) Milk**
-** 2) Milk**
-** 3) Milk**
-** 4) Milk**
-** 5) Milk**
-
-This is `a variable name`
+Variables are assigned. An example is,
 
 ```
-$python run.py
-```
+avariable=25
 
 ```
-def my_function(a):
-    return a + 10
+
+# Use of Variables
+
+Variables are there for later use. Such as,
 
 ```
+print avariable * 5
+```
+
+#Types of Variables
+
+The types of variables are...
+Integers
+Strings
+Booleans
+Floats
