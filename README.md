@@ -24,3 +24,14 @@ Integers
 Strings
 Booleans
 Floats
+
+#Conditionals
+Expressions
+Branching
+
+#Functions
+
+
+git clone _______
+git add
+git push
